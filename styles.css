@@ -17,7 +17,7 @@
   width: 60%;
   padding-left: 136px;
   margin-top: 30%;
-  
+
 }
 
 .container-right {
@@ -63,11 +63,11 @@ button {
 }
 
 button:hover {
-  opacity: .8;
+  opacity: 0.8;
 }
 
 button:active {
-  opacity: .5;
+  opacity: 0.5;
 }
 
 a {
@@ -94,14 +94,14 @@ header {
 }
 
 @media screen and (max-width: 900px) {
-  .container-left{
+  .container-left {
     width: 100%;
     height: 50%;
     padding: 0;
     margin: 0;
   }
 
-  .container-right{
+  .container-right {
     display: block;
     height: auto;
     width: 100%;
@@ -112,7 +112,7 @@ header {
   img {
     position: static;
     width: 90%;
-    
+
   }
 
   header {
